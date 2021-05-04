@@ -48,7 +48,7 @@ Prerequisites
 Download
 ^^^^^^^^
 
-We recommened that you clone the STT repo from the latest stable release branch on Github (e.g. ``v0.9.3``). You can find all 🐸STT releases `here <https://github.com/coqui-ai/STT/releases>`_).
+We recommend that you clone the STT repo from the latest stable release branch on Github (e.g. ``v0.9.3``). You can find all 🐸STT releases `here <https://github.com/coqui-ai/STT/releases>`_).
 
 .. code-block:: bash
 
