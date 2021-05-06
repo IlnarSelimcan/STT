@@ -152,7 +152,7 @@ $ sudo apt-get install -y nvidia-container-toolkit
 
 ## Pulling down a pre-built Coqui STT Docker image
 
-Once you have installed Docker and the `nvidia-container-toolkit`, you are ready to build a Docker _image_. Although it's [possible to build your own Docker image from scratch](), we're going to use a pre-built 🐸STT training image which is hosted on Docker Hub. Once the image is pulled down, you can then create a Docker _container_ from the image to perform training.
+Once you have installed Docker and the `nvidia-container-toolkit`, you are ready to build a Docker _image_. Although it's [possible to build your own Docker image from scratch](), we're going to use a pre-built 🐸STT training image which is hosted on GitHub Packages. Once the image is pulled down, you can then create a Docker _container_ from the image to perform training.
 
 As you become more proficient with using 🐸STT, you can use the pre-built Docker image as the basis for your own images.
 
